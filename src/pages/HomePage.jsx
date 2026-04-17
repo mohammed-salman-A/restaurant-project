@@ -9,7 +9,7 @@ const HomePage = () => {
   <Header restaurantName="Arabian Kitchen" />
 
   <h2>Welcome</h2>
-  <p>Write a short description about your restaurant</p>
+  <p>Enjoy the best Arabian cuisine in town!</p>
 
   <Menu/>
 
