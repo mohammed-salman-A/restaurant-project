@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 const HomePage = () => {
   return (
     <>
-  <Header restaurantName="Your Restaurant Name" />
+  <Header restaurantName="Arabian Kitchen" />
 
   <h2>Welcome</h2>
   <p>Write a short description about your restaurant</p>
